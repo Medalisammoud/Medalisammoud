@@ -33,7 +33,7 @@ Throughout my career, I have focused on improving website loading speed, efficie
 ![Ant Design](https://img.shields.io/badge/ant--design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white) 
 
 ## 🌟 Projects: <br />
-**Booking Platform**> <br />
+**Booking Platform** <br />
 A comprehensive booking platform integrating flights, transfers, and hotels. Built with React.js, Node.js, and MongoDB. Focused on developing reusable services and ensuring efficient deployments using GitHub Actions and Docker.<br />
 
 **B2B-Tunisia** <br />
